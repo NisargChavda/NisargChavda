@@ -135,3 +135,9 @@ I am **Nisarg Chavda**, I'm MBA (Finance). I was working as Operations Executive
   </a>
 </p>
 </h1>
+![Nisarg's github stats](https://github-readme-stats.vercel.app/api?username=NisargChavda&show_icons=true&hide_border=true)
+  <br />
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyaPrasad1209.ShreyaPrasad1209)
+   <br />
+   <br />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=NisargChavda&theme=dracula&hide_border=true)](https://git.io/streak-stats)
