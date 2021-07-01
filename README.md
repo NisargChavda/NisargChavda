@@ -106,10 +106,11 @@ I am **Nisarg Chavda**, I'm MBA (Finance). I was working as Operations Executive
 
 <div align = "center">
 
-![Subham's Github Status](https://github-readme-stats.vercel.app/api?username=NisargChavda&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
-<hr>
-
+![Nisarg's Github Status](https://github-readme-stats.vercel.app/api?username=NisargChavda&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+<br />
+<br />
+![Nisarg's Github Status](https://github-readme-streak-stats.herokuapp.com/?user=NisargChavda&theme=dracula&hide_border=true)
+    <hr>
 </div>    
 <h1 align="center">    
 ✨ Connect with me ✨
@@ -123,7 +124,7 @@ I am **Nisarg Chavda**, I'm MBA (Finance). I was working as Operations Executive
   <a href="mailto:nisargchavda34@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=gmail&logoColor=white">  
   </a>
-
+    
 
   <br/>
   <a href="https://www.instagram.com/i_m_nisarg_/">
@@ -135,9 +136,4 @@ I am **Nisarg Chavda**, I'm MBA (Finance). I was working as Operations Executive
   </a>
 </p>
 </h1>
-![Nisarg's github stats](https://github-readme-stats.vercel.app/api?username=NisargChavda&show_icons=true&hide_border=true)
-  <br />
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyaPrasad1209.ShreyaPrasad1209)
-   <br />
-   <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=NisargChavda&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+   
