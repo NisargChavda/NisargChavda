@@ -24,7 +24,7 @@ I am **Nisarg Chavda**, I'm MBA (Finance). I was working as Operations Executive
       </td>
       <td width="25%" align="center">
         <span>Power BI</span><br><br><br>
-        <img height="64px" src="https://www.spheregen.com/wp-content/uploads/2019/07/PowerBI-Logo.png">
+        <img height="64px" src="http://lbspak.com/wp-content/uploads/2020/04/power-bi-vector-logo-300x167.png">
       </td>
       <td width="25%" align="center">
         <span>Tableau</span><br><br><br>
